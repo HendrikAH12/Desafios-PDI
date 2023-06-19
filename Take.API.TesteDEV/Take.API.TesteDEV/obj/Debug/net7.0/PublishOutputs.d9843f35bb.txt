@@ -1,0 +1,13 @@
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Take.API.TesteDEV.exe
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Take.API.TesteDEV.dll
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Take.API.TesteDEV.deps.json
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Take.API.TesteDEV.runtimeconfig.json
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Take.API.TesteDEV.pdb
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Newtonsoft.Json.dll
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hendrik\Documents\Hendrik\Take Blip\Desafios PDI\Take.API.TesteDEV\Take.API.TesteDEV\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

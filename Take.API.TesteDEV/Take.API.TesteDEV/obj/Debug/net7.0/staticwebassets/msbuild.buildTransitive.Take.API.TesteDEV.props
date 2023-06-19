@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Take.API.TesteDEV.props" />
+</Project>
